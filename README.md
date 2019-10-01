@@ -2,6 +2,7 @@
 Tools Ini Untuk Membantu Para Newbie [FREE] Created By Me: XxXMizterDarkXxX
 
 # Need Install
+```
 $pkg install python2
 $pkg install git
 $git clone https://github.com/XxXMisterDarkXxX/Key
